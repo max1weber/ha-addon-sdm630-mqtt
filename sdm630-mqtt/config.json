@@ -1,6 +1,6 @@
 {
   "name": "SDM630 Modbus → MQTT Bridge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "slug": "sdm630_mqtt",
   "description": "Bridge voor Eastron SDM630 via USR-TCP232-410S naar MQTT",
   "arch": ["amd64", "armv7", "armhf", "aarch64"],
